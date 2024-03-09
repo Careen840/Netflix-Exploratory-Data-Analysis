@@ -18,3 +18,7 @@ This Python code analyses Netflix movie data by performing the following tasks:
 1. Incorporate more advanced statistical analysis techniques.
 2. Enhance visualization by exploring different plot types and styles.
 3. Expand the analysis to include TV shows and other content types available on Netflix.
+## Acknowledgements
+
+ - Data Source (https://www.kaggle.com/datasets/shivamb/netflix-shows)
+
