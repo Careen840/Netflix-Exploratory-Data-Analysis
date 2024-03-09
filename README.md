@@ -12,7 +12,6 @@ This Python code analyses Netflix movie data by performing the following tasks:
 7. Creating a scatter plot to visualize the relationship between movie duration and release year.
 8. Answering the question "Are movies getting shorter?" with a simple "no".
 
-
 ## Future Improvements
 
 1. Incorporate more advanced statistical analysis techniques.
@@ -21,4 +20,3 @@ This Python code analyses Netflix movie data by performing the following tasks:
 ## Acknowledgements
 
  - Data Source (https://www.kaggle.com/datasets/shivamb/netflix-shows)
-
