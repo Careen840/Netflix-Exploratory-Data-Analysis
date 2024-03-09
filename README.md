@@ -3,7 +3,7 @@
 
 This Python code analyses Netflix movie data by performing the following tasks:
 
-1. Importing necessary libraries: pandas for data manipulation and matplotlib for visualization.
+1. Importing necessary libraries: pandas for data manipulation and matplotlib for visualisation.
 2. Read the Netflix data from a CSV file into a DataFrame.
 3. Filtering the DataFrame to include only movies.
 4. Selecting relevant columns such as title, country, genre, release year, and duration.
